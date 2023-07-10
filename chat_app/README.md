@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+WhatsApp Clone built using Flutter
 
 ## Getting Started
 
